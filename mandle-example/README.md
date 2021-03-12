@@ -14,7 +14,7 @@ The following steps should allow you to test this out on a system with docker an
 
 1. `docker build -t $USER/python-mandle .`
 
-1. `docker run -v /data/ubuntu:/data/ubuntu -it $USER/python-mandle ${PWD}/mandle_ex.gif`
+1. `docker run -v $PWD:$PWD -it $USER/python-mandle $PWD/mandle_ex.gif`
 
 1. `sudo singularity build mandle.sif mandle.def`
 
