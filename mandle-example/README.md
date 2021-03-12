@@ -1,4 +1,4 @@
-#mandle-example
+# mandle-example
 
 This directory is a full example of using the docker-centos-nix-python template to
 containerize a very simple Python3 app.
@@ -6,7 +6,7 @@ containerize a very simple Python3 app.
 This app allows you to create a GIF file with a straight-line zoom-in of the Mandlebrot set.
 Running the bare container will show the various commandline options available, which
 may be confusing, as this was written immediately following in-depth perusal of
-[https://en.wikipedia.org/wiki/Mandelbrot_set][The Wikipedia article on the Mandlebrot Set].
+[The Wikipedia article on the Mandlebrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set).
 If you have some time available and are interested in this sort of thing, please go down
 the rabbithole, but otherwise view this as a somewhat helpful example.
 
