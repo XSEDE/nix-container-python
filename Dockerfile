@@ -4,7 +4,7 @@ FROM xsede/centos-nix-base:latest
 
 LABEL base_image="xsede/centos-nix-base"
 LABEL version="1.0.0"
-LABEL software="Mandle"
+LABEL software="Python"
 LABEL software.version="3.8.8"
 LABEL about.summary="Python 3.8.8 installed via Nix on top of CentOS 7"
 LABEL about.home="https://github.com/XSEDE/nix-container-python"
