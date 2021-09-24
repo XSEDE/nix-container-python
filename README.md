@@ -4,7 +4,7 @@ This repo contains files necessary to build a container with Nix and Python to b
 This repo can be cloned as a template and used as a starting point for containerizing 
 applications that require Python.
 
-For a *very* simple example, see: https://github.com/XSEDE/nix-container--python-mandle
+For a *very* simple example, see: https://github.com/XSEDE/nix-container-python-mandle
 
 A more complex example is available at: https://github.com/XSEDE/nix-container-perfzero
 
